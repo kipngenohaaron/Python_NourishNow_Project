@@ -122,8 +122,8 @@ To add a user to your Flask application, send a POST request to the `/signUp` en
 6. In the request body, provide JSON data with the user's registration information. For example:
    ```json
    {
-       "name": "John Doe",
-       "email": "johndoe@example.com",
+       "name": "Kipngenoh",
+       "email": "kipngenohaaron@gmail.com",
        "password": "secret_password"
    }
    ```
